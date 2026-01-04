@@ -1,2 +1,1 @@
-# Python
-ZC-IPINN
+# ZC-IPINN
